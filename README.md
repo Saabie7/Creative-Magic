@@ -11,7 +11,6 @@ My hub for public creative and document-tool forks. Each app stays in its own re
 | EffectCraft | Motion graphics and effects | [effectcraft](https://github.com/Saabie7/effectcraft) | [storytold/effectcraft](https://github.com/storytold/effectcraft) |
 | DesignCraft | Page layout and publishing | [designcraft](https://github.com/Saabie7/designcraft) | [storytold/designcraft](https://github.com/storytold/designcraft) |
 | PdfCraft | PDF reading and editing | [pdfcraft](https://github.com/Saabie7/pdfcraft) | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) |
-
 | DocuSeal | Document filling and electronic signing | [docuseal](https://github.com/Saabie7/docuseal) | [docusealco/docuseal](https://github.com/docusealco/docuseal) |
 
 ## Stay up to date
